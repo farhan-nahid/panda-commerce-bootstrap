@@ -79,11 +79,13 @@
   color: var(--white-color);
 }
 
-#shoes .card {
+#shoes .card,
+#bags .card {
   border-radius: 20px !important;
 }
 
-#shoes img {
+#shoes img,
+#bags img {
   height: 300px;
   object-fit: contain;
 }
